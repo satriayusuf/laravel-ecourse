@@ -1,0 +1,158 @@
+html , body{
+	font-family: 'Poppins' , sans-serif;
+	background-color: #f8f8f8;
+	scroll-behavior: smooth;
+	margin: 0;
+	padding: 0;
+}
+
+nav{
+	background-color: #81B3FF;
+}
+
+#judulnav{
+	font-size: 23px;
+	font-weight: 800;
+	color: #fff;
+}
+
+.nav-item{
+	color: #fff;
+	font-size: 16px;
+}
+
+#sec1{
+	background: linear-gradient(#81B3FF, #0071C2);
+}
+
+.login{
+	background-color: #FF785F;
+	padding: 5px 20px 5px 20px;
+	border-radius: 20px;
+}
+
+#text1{
+	font-size: 50px;
+	color: #fff;
+}
+#text2{
+	font-size: 55px;
+	color: #fff;
+}
+
+#title-sec2{
+	color: #505050;
+	font-weight: 600;
+	font-size: 45px;
+	margin-top: 60px;
+}
+
+#capt-sec2{
+	font-size: 20px;
+	color: #FF785F;
+}
+
+.btn{
+	background-color: #FF785F;
+	color: #fff;
+	margin-top: 20px;
+}
+
+.title-sec3{
+	font-size: 40px;
+	font-weight: 600;
+	color: #505050;
+}
+
+
+.se4{
+	background: linear-gradient(#FF785F, #FF9683);
+	border-radius: 15px;
+}
+
+.title-sec4{
+	color: white;
+}
+
+.btn-sec4{
+	background-color: transparent;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: white;
+	font-size: 20px;
+	color: white;
+	padding: 10px 10px 10px 10px;
+}
+
+.btn-sec4:hover{
+	background-color: white;
+	border-radius: 5px;
+	border-style: solid;
+	border-color: white;
+	font-size: 20px;
+	color: #ff9683;
+	padding: 10px 10px 10px 10px;
+}
+
+.bg-sec5{
+	background: white;
+	border-radius: 15px;
+	padding-bottom: 15px;
+
+}
+
+.title-sec5{
+	color: #505050;
+}
+
+.capt-sec5{
+	font-size: 25px;
+	color: #FF9683;
+}
+
+footer{
+	background-color: #6B9AF5;
+}
+
+.title-sec6{
+	color: white;
+	font-size: 24px;
+}
+
+.box{
+	background-color: white;
+	margin-top: 20px;
+	border-radius: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.inputduar{
+	border-radius: 25px;
+}
+
+.buttona{
+	border-radius: 30px;
+	border-style: solid;
+	border-color: white;
+	padding: 5px 15px;
+	float: right;
+	color: white;
+	margin-top: 20px;
+}
+
+.footer-botom{
+	background: #587FCB;
+	box-shadow: 0px -4px 12px rgba(0, 0, 0, 0.15);
+	padding: 10px 0;
+	text-align: center;
+	color: white;
+}
+
+.active{
+	background-color: white;
+}
+
+.color-primary{
+	color: #81B3FF;
+}

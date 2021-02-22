@@ -1,0 +1,225 @@
+@media screen  and (max-width: 500px){
+	#selamat{
+		display: none;
+	}
+	.card-newww{
+		width: 15rem;
+		margin-left: 20px;
+
+	}
+	.judul-materi-mobile{
+		font-size: 25px;
+		font-weight: 300px;
+	}	
+	.card-neww{
+		display: none;
+	}
+	.title-new{
+		font-size: 15px;
+	}
+	.date-new{
+		font-size: 10px;
+	}
+	.kategori-new{
+		font-size: 12px;
+	}
+	
+	.font-hasil-admin{
+		font-size: 15px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+	.title-today{
+		font-size: 23px;
+		font-weight: 500px;
+	}
+	.card-kategori{
+		width: 10rem;
+		border:none;
+		background-color: #6777ef;
+		color:white;
+	}
+	.data-kenapa{
+		font-size: 20px;
+	}
+	.kenapalaris{
+		font-size: 30px;
+	}
+	.img-kategori{
+		object-fit: cover;
+		width: 100%;
+		height: 30vw;
+	}
+}
+
+
+/*@media screen  and (max-width: 415px){
+	.card-hasil-admin{
+		width: 350px;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+}
+
+@media screen  and (max-width: 501px){
+	.card-hasil-admin{
+		width: 420px;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+}
+
+@media screen  and (min-width: 550px){
+	.card-hasil-admin{
+		width: 450px;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+}
+@media screen  and (max-width: 600px){
+	.card-hasil-admin{
+		width: 500px;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+}
+@media screen  and (min-width: 699px){
+	.card-hasil-admin{
+		width: 550px;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+}
+*/
+/*@media screen  and (max-width: 769px){
+	.card-hasil-admin{
+		width: 100%;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		font-size: 20px;
+		margin-top: 20px;
+		color: #505050;
+	}
+	.font-materi-kategori{
+		font-size: 15px;
+		color: #6777ef;
+	}
+}*/
+
+@media screen and (min-width: 770px){
+	.mt-mobile{
+		display: none;
+	}
+	.judul-materi-mobile{
+		font-size: 30px;
+		font-weight: 300px;
+	}	
+	.alert{
+		display: none;
+	}
+	.title-today{
+		font-size: 30px;
+	}
+	.kudufloat{
+		float: right;
+	}
+	.card-newww{
+		margin-left: 20px;
+	}
+	.font-hasil-admin{
+		font-size: 18px;
+		font-weight: 20px;
+		color: #fff;
+		background-color: #6777ef;
+	}
+	.font-materi-nama{
+		margin-top: 20px;
+		font-size: 20px;
+	}
+	.font-materi-kategori{
+		background-color: #6777ef;
+		font-size: 15px;
+		color: white;
+	}
+}

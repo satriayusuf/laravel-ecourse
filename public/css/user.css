@@ -1,0 +1,81 @@
+html , body{
+	font-family: 'Poppins' , sans-serif;
+	background-color: #FFFFFF;
+	scroll-behavior: smooth;
+	margin: 0;
+	padding: 0;
+	color: #505050;
+}
+
+.selamat{
+	background: #3E95E6;
+	box-shadow: 0px 4px 49px #9BCFFF;
+	border-radius: 10px;
+}
+
+.kataselamat{
+	color: white;
+	margin-left: 10px;
+}
+
+.grafik{
+	background: #FFFFFF;
+	box-shadow: 3px 2px 33px rgba(0, 0, 0, 0.06);
+
+}
+
+.card-new{
+	color: #505050;
+	text-decoration: none;
+}
+
+.card-neww{
+	border-radius: 10px;
+	color: #505050;
+}
+
+.card-new:hover{
+	color: #505050;
+	text-decoration: none;
+}
+
+.card-neww:hover{
+	/*transform: scale(1.1);
+	transition: all 0.5s ease-out;
+	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);*/
+	transition: all 0.2s ease-out;
+	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+	top: -4px;
+	border: 1px solid #cccccc;
+	background-color: white;
+}
+
+.card-neww:hover:before {
+	transform: scale(2.15);
+}
+
+.card-newww:hover{
+	/*transform: scale(1.1);
+	transition: all 0.5s ease-out;
+	box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);*/
+	transition: all 0.2s ease-out;
+	/*box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);*/
+	/*top: -4px;*/
+	border: 1px solid #cccccc;
+	background-color: #f0f0f0;
+	color: #505050;
+	border-color: #f0f0f0;
+}
+
+.cariindex:focus, .cariindex:hover{
+	transform: scale(1.1);
+	transition: all 0.5s ease-out;
+}
+
+.data-kenapa{
+	font-size: 25px;
+}
+
+.ceklis{
+	color: green;
+}
